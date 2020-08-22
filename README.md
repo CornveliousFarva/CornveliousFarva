@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### I code and I know things
 
 ### Currently, I'm working on some small JavaScript projects to reinforce what I learned in coding bootcamp. After that, I plan on doing the same thing with React, nodeJS, mySQL, and PHP
