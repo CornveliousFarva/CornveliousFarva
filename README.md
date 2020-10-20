@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+# GitHub Stats
+    <summary>CornveliousFarva's GitHub Stats</summary>
+        <img align="left" alt="CornveliousFarva's GitHub Stats" src="https://github-readme-stats.cornveliousfarva.vercel.app/api?username=CornveliousFarva
+        ">
